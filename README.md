@@ -1,4 +1,4 @@
-<img src="">
+<img src="methodology-map.jpg">
 
 
 # A-B-Testing-for-Business-Analysts
