@@ -3,12 +3,13 @@
 <img src="crisp-dm-framework.jpeg">
 
 
-# A-B-Testing-for-Business-Analysts
+# A/B-Testing-for-Business-Analysts
 A complete A/B-testing tutorial and project
 
 
 `Predictive`
 Predictive analytics uses existing data to predict a future outcome. For example, a company may use predictive analytics to forecast demand or whether a customer will respond to an advertising campaign.
+
 ---
 
 `Geospatial`
