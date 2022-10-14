@@ -22,4 +22,26 @@ the `x` is the variable on the x axis - predictor variable, or the game changer
 
 Slope function    `SLOPE(data_y, data_x)`
 Intercept function    `INTERCEPT(data_y, data_x)`
+---
+
+#### Validation of model
+
+Stage One - Correlation
+correlation function `CORREL(data_y, data_x)`
+
+we can calculate the correlation between the target and predictor variable. 
+This value is often referred to as `r`. 
+The range of r is from -1 to +1. 
+The closer r is to plus or minus 1
+
+stage Two - Calculate r-squared
+
+While a strong correlation is good, we really want to know how well the data fits our line. 
+Fortunately, we can get a sense of how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. 
+
+R-squared is a coefficient between 0 and 1. 
+R-squared is interpreted as the percent of variance in observations that is explained by the model, or the explanatory power of the model. 
+
+An R-squared value close to 1 would mean that nearly all variance in the target variable is explained by the model. 
+An R-squared value close to 0 would mean that nearly none of the variance in the target variable is explained by the model.
 
