@@ -1,6 +1,8 @@
+<img src="crisp-dm-framework.jpeg">
+
 <img src="methodology-map.jpg">
 
-<img src="crisp-dm-framework.jpeg">
+
 
 
 # A/B-Testing-for-Business-Analysts
