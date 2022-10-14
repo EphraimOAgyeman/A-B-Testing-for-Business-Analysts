@@ -9,8 +9,8 @@
 
 ## Linear regression for predictions
 
-A scatterplot that shows the plots in a line..
-A line is drawn on the plots.
+A scatterplot that shows the plots in a line and line is drawn on the plots.
+
 Using the line, you can predict the later or future plots.
 
 y = mx + b
