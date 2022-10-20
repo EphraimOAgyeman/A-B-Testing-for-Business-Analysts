@@ -1,6 +1,6 @@
 <img src="crisp-dm-framework.jpeg">
 
-## Ask the following questions to understand the business issue:
+## Ask the following questions to  understand the business issue:
 * What decision needs to be made?
 * What information is needed to inform that decision?
 * What type of analysis is needed to get the information needed to make that decision?
